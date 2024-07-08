@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Overlord\source\repos\BoardGamesStore\BoardGamesStore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Overlord/source/repos/BoardGamesStore/BoardGamesStore/Views/BoardGames/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRHYW1lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Overlord/source/repos/BoardGamesStore/BoardGamesStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
