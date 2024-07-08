@@ -20,10 +20,10 @@ namespace DataAccess
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<BoardGame>().HasData(
-                new BoardGame { Id = 1, Name = "D&D", Description = "", Price = 100 },
-                new BoardGame { Id = 2, Name = "Страшные сказки", Description = "", Price = 20 },
-                new BoardGame { Id = 3, Name = "Ужасы Аркхэма", Description = "", Price = 130 },
-                new BoardGame { Id = 4, Name = "Дюна", Description = "", Price = 200 }
+                new BoardGame { Id = 1, Name = "D&D", Description = "", Price = 100, Quantity = 5 },
+                new BoardGame { Id = 2, Name = "Страшные сказки", Description = "", Price = 20, Quantity = 7 },
+                new BoardGame { Id = 3, Name = "Ужасы Аркхэма", Description = "", Price = 130, Quantity = 4 },
+                new BoardGame { Id = 4, Name = "Дюна", Description = "", Price = 200, Quantity = 4 }
                 );
         }
     }
